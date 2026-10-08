@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <title>My Design Process</title>
+
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;700&display=swap" rel="stylesheet">
+
+  <link rel="stylesheet" href="AI_SKETCHBOOK.CSS">
+</head>
+
+<body>
+
+  <header>
+    <h1>My Design Process</h1>
+
+    <p class="intro">
+      A look into my workflow and how my ideas develop from a quick sketch into a finished piece.
+      Use the slider to compare the beginning and final stages of each project.
+    </p>
+  </header>
+
+
+  <main>
+
+    <div class="project-info">
+      <p id="projectNumber">01 / 12</p>
+      <h2 id="projectTitle">Cop Shootout</h2>
+      <p id="projectDescription">
+        A look at the process behind this design.
+      </p>
+    </div>
+
+
+    <div class="comparison">
+
+  <img id="finalImage"
+       src="FINAL_WORK/final_1.jpg"
+       alt="Finished design">
+
+  <div class="sketch-container">
+
+    <img id="sketchImage"
+         src="SKETCHES/sketch_1.png"
+         alt="Design sketch">
+
+  </div>
+
+  <div class="slider-line"></div>
+
+  <input
+    type="range"
+    id="slider"
+    min="0"
+    max="100"
+    value="50"
+  >
+
+</div>
+
+
+    <p class="slider-instruction">
+      ← Drag the slider to compare the sketch and finished piece →
+    </p>
+
+
+    <div class="navigation">
+
+      <button id="previousButton">← Previous</button>
+
+      <button id="nextButton">Next →</button>
+
+    </div>
+
+
+    <section class="reflection">
+
+      <h2>Reflection</h2>
+
+      <p>
+        For this exercise, I used AI to help me experiment with JavaScript and create
+        an interactive way to show my design process. I asked AI to help me turn my
+        original sketch-to-finished-piece interaction into a larger gallery where users
+        could compare multiple projects using a slider. My first version was much simpler,
+        so I had to revise the idea and troubleshoot the code as I expanded it.
+      </p>
+
+      <p>
+        The final result allows me to move through twelve different projects while
+        comparing the sketch with the finished work. I understand the basic structure
+        of the JavaScript, including how the slider changes the image position and how
+        the buttons change which project is displayed. I could modify smaller parts of
+        the code myself, although I would probably use AI again if I wanted to create
+        a more complicated interaction.
+      </p>
+
+    </section>
+
+  </main>
+
+
+  <a class="home-link" href="index.html">Back to Home</a>
+
+
+  <script src="AI_SKETCHBOOK.js"></script>
+
+</body>
+
+</html>
