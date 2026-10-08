@@ -6,91 +6,91 @@ const projects = [
         sketch: "SKETCHES/sketch_1.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_1.jpg",
         title: "Cop Shootout",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_2.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_2.jpg",
         title: "Sunset Drive",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_3.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_3.jpg",
         title: "Mysterious Cave",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_4.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_4.jpg",
         title: "SNAKE!",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_5.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_5.jpg",
         title: "Forbidden Treasure?",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_6.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_6.jpg",
         title: "TRAP!",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_7.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_7.jpg",
         title: "Fallen Battlefield",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_8.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_8.jpg",
         title: "Trooper Close-Up",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_9.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_9.jpg",
         title: "Ready For Duty",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_10.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_10.jpg",
         title: "Mr.Nobody Poster",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_11.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_11.jpg",
         title: "Full Throttle Poster",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_12.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_12.jpg",
         title: "Trooper Poster",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     },
 
     {
         sketch: "SKETCHES/sketch_13.png", // CHANGE THIS IF NEEDED
         final: "FINAL_WORK/final_13.jpg",
         title: "Lego City Vice",
-        description: "A look at the process behind this design."
+        description: "A look at the process behind this design. (photos may take time to load)"
     }
 ];
 
